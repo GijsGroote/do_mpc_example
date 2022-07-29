@@ -1,0 +1,2 @@
+DT = 0.05
+PLOT_CONTROLLER = False
